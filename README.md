@@ -1,2 +1,2 @@
 # hello_world
-First repository
+First repository to practice with and some ideas of things to do
